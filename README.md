@@ -25,4 +25,4 @@ I'm a Computer Science and Engineering student, currently in third year. I am fa
 #
 
 ### 📊 Stats
-![carvalho28's GitHub stats](https://github-readme-stats.vercel.app/api?username=carvalho28&count_private=true&show_icons=true&theme=rose_pine)
+![carvalho28's GitHub stats](https://github-readme-stats.vercel.app/api?username=carvalho28&count_private=true&show_icons=true&theme=tokyonight)
