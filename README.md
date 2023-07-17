@@ -3,7 +3,7 @@
 **`Enthusiast Developer`**
 
 <p>
-I'm a Computer Science and Engineering student, currently in third year. I am fascinated by computer science, particularly anything related to creating software to solve users’ problems.
+I'm a future MSc Student in Human-Centered Artificial Intelligence at DTU. I am fascinated by artificial intelligence, web and app development, and software engineering, particularly anything related to creating software to solve users' problems.
 </p>
 
 ---
